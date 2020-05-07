@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IntelliJ IDEA - Project files
+WarsztatApp.iml
+
+# IntelliJ IDEA - Project folder
+.idea/*
+
+# Compiled class folder
+out/*
