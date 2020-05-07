@@ -10,7 +10,6 @@ public class Windows {
      *
      *
      * @return void
-     * @throws InterruptedException
      */
     public static void clrcls() {
         try {
